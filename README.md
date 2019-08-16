@@ -6,7 +6,7 @@ We ship with preinstalled libraries right in the box.
 
 ## Looks great on the latest devices
 
-Ubuntu is designed to work beautifully on the latest laptops, desktops and touch screen devices, 
+Ubuntu is designed to work beautifully on the latest laptops, desktops and touch screen devices, it looks incredible on high resolution screens — and with touch screen enhancements and interface refinements, 
 
 
 
