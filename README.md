@@ -9,7 +9,7 @@ We ship with preinstalled libraries right in the box.
 The Unknown OS {X} is designed to work beautifully on the latest laptops, desktops and touch screen devices, it looks incredible on high resolution screens — and with touch screen enhancements and interface refinements, it’s now even easier to use.
 
 
-  <img src="Screenshot.png" alt="Screenshots">
+  <img src="Images/Screenshot.png" alt="Screenshots">
 
 
 
