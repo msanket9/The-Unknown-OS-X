@@ -14,4 +14,6 @@ The Unknown OS {X} is designed to work beautifully on the latest laptops, deskto
 
 ## Close to Upstream
 
+The Unknown OS {X} stays in lockstep with upstream, always staying on the latest version of the kernel and compilers. Daily security mitigations deliver available security updates to customers rapidly. 
+
 
